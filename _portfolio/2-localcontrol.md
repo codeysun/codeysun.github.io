@@ -1,5 +1,5 @@
 ---
-title: "Minecraft with Rigid Body Physics Simulation"
+title: "Locally Controlled 3D Generation"
 permalink: https://github.com/codeysun/local-control-3d-generation
 slidesurl: "https://docs.google.com/presentation/d/1myU7y-pp23LhgC_WUwzfndJdyFfPOIKOnqyVpwOtskk/edit?usp=sharing"
 codeurl: "https://github.com/codeysun/local-control-3d-generation"
