@@ -4,7 +4,7 @@ permalink: https://github.com/codeysun/local-control-3d-generation
 slidesurl: "https://docs.google.com/presentation/d/1myU7y-pp23LhgC_WUwzfndJdyFfPOIKOnqyVpwOtskk/edit?usp=sharing"
 codeurl: "https://github.com/codeysun/local-control-3d-generation"
 excerpt: "3D asset generation with local geometry conditioning using image
-  diffusion and ControlNet. 3D/4D Foundation Models final project. <img
+  diffusion and ControlNet. 3D/4D Foundation Models final project. <br/> <img
   src='/images/cup.gif' width='600'>"
 collection: portfolio
 ---
