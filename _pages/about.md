@@ -11,7 +11,7 @@ redirect_from:
 width="600px"}
 
 I am currently an M.S. Electrical Engineering student at Stanford in the
-Gradient Spaces Lab, advised by Prof [ Iro Armeni ](https://ir0.github.io/). Prior, I
+Computational Imaging Lab, advised by Prof [ Gordon Wetzstein ](https://stanford.edu/~gordonwz/). Prior, I
 received my B.S. in Electrical and Computer Engineering at The University of
 Texas at Austin. I have a deep interest in AR/VR, computer vision, and generative AI. During
 my time at UT, I was advised by Professors

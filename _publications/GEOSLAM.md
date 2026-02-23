@@ -19,11 +19,11 @@ excerpt:
 date: 2023-04-24
 venue: '2023 IEEE/ION Position, Location and Navigation Symposium (PLANS)'
 paperurl: 'https://radionavlab.ae.utexas.edu/wp-content/uploads/2023/05/headset_tracking_tenny.pdf'
-citation:
-    'R. M. Tenny, L. C. Sun, A. Duru and T. E. Humphreys, "Robust Absolute
-    Headset Tracking for Extended Reality," 2023 IEEE/ION Position, Location and
-    Navigation Symposium (PLANS), Monterey, CA, USA, 2023, pp. 1350-1362, doi:
-    10.1109/PLANS53410.2023.10140004.'
+# citation:
+#     'R. M. Tenny, L. C. Sun, A. Duru and T. E. Humphreys, "Robust Absolute
+#     Headset Tracking for Extended Reality," 2023 IEEE/ION Position, Location and
+#     Navigation Symposium (PLANS), Monterey, CA, USA, 2023, pp. 1350-1362, doi:
+#     10.1109/PLANS53410.2023.10140004.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks

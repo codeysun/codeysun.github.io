@@ -1,11 +1,12 @@
 ---
-title: "Locally Controlled 3D Generation"
-permalink: https://github.com/codeysun/local-control-3d-generation
-slidesurl: "https://docs.google.com/presentation/d/1myU7y-pp23LhgC_WUwzfndJdyFfPOIKOnqyVpwOtskk/edit?usp=sharing"
-codeurl: "https://github.com/codeysun/local-control-3d-generation"
-excerpt: "3D asset generation with local geometry conditioning using image
-  diffusion and ControlNet. 3D/4D Foundation Models final project. <br/> <img
-  src='/images/cup.gif' width='600'>"
+title: 'Reimagine the World with 3D Generative Reconstruction'
+permalink: https://github.com/codeysun/generative-reconstruction
+slidesurl: '/files/genrecon_slides.pdf'
+codeurl: 'https://github.com/codeysun/generative-reconstruction'
+excerpt:
+    "Reimagine 3D scenes using part-level semantic segmentation and
+    locally-controlled 3D asset generation. Collaboration with <a href='https://gradientspaces.stanford.edu/'>Stanford Gradient Spaces Lab</a> 
+<br/> <img src='/images/gen_recon.png' width='600'>"
 collection: portfolio
 ---
 

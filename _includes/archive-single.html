@@ -64,7 +64,9 @@
     {% elsif post.paperurl %}
       <p><a href="{{ post.paperurl }}">Paper</a></p>
     {% elsif post.slidesurl %}
-      <p><a href="{{ post.slidesurl }}">Slides</a></p></p>
+      <p><a href="{{ post.slidesurl }}">Slides</a></p>
+    {% elsif post.webpageurl %}
+      <p><a href="{{ post.webpageurl }}">Webpage</a></p>
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
